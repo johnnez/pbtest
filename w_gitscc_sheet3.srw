@@ -6,7 +6,7 @@ end type
 end forward
 
 global type w_gitscc_sheet3 from w_gitscc_basesheet
-string Tag="Untitled for Sheet 2"
+string tag = "Untitled for Sheet 3"
 end type
 global w_gitscc_sheet3 w_gitscc_sheet3
 
