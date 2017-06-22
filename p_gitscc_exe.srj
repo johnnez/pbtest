@@ -1,14 +1,14 @@
 HA$PBExportHeader$p_gitscc_exe.srj
 $PBExportComments$Generated Application Executable Project
 EXE:gitscc.exe,,0,0,1
-CMP:0,0,0,2,0,0
-COM:Sybase, Inc.
-DES:Sybase, Inc. Product File
+CMP:0,0,0,2,0,0,1
+COM:Testing Inc.
+DES:Git Test
 CPY:
-PRD:PowerBuilder Enterprise Series
-PVN:1,0,0,1
-PVS:1.0.0.1
-FVN:1,0,0,1
-FVS:1.0.0.1
+PRD:App
+PVS:1.0
+PVN:1,0,0,0
+FVS:1.0
+FVN:1,0,0,0
+MAN:0,asInvoker,0
 PBD:gitscc.pbl,,0
- 
